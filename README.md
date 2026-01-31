@@ -1,3 +1,4 @@
+Prastice............
 # 🧠 Mindvia - Smart Studying Platform
 
 A full-stack web application for smart studying with user registration and login functionality.
